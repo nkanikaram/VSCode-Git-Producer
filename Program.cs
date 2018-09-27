@@ -13,6 +13,7 @@ namespace SimpleProducer
             Console.WriteLine("Hello World");//asdasdasd - wewqeqweqweqwe -master changes
             Console.WriteLine("Propogate from Staging");
             Console.WriteLine("One more Change from Staging");
+            Console.WriteLine("1");
 
             Console.ReadKey(true);//Adding Some Commentadsdsdfsdf adding Staging Change More changes  lot changes master changes
         }
